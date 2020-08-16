@@ -15,7 +15,7 @@ Developed a prediction model using the Keras library. Only monthly average sold 
 ![LSTM_prediction](https://github.com/daniel8691/toronto_property_price_forecast/blob/master/project_images/test_prediction_lstm.png)
 
 
-#### Facebook Prophet Models
+### Facebook Prophet Models
 We can see that the model predicted with similar results as the LSTM model
 ![prophet_forecast](https://github.com/daniel8691/toronto_property_price_forecast/blob/master/project_images/fb_prophet_forecast.png)
 
